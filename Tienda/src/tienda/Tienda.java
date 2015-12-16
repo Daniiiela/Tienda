@@ -18,6 +18,7 @@ public class Tienda {
         System.out.println("Hola mundo");
         System.out.println("Escribe una línea con tu nombre:");
         System.out.println("Antonio");
+        System.out.println("Hector");
     }
     
 }
