@@ -21,7 +21,6 @@ public class Tienda {
         System.out.println("Hector");
         System.out.println("Daniela");
         System.out.println("Danii");
-        
     }
     
 }
