@@ -23,6 +23,7 @@ public class Tienda {
         System.out.println("Danii");
         System.out.println("Yadi");
         System.out.println("Mely");
+        bd.Conexion.conectar();
     }
     
 }
